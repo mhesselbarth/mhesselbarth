@@ -1,6 +1,6 @@
-### Welcome, I'm Max (_he/him/his_) 👋
+### Welcome 👋
 
-I am a computational ecologist at the [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com) based at the [University of Michigan](https://lsa.umich.edu/eeb).
+Hi, I'm Max (Pronouns: _he/him/his_). I am a computational ecologist at the [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com) based at the [University of Michigan](https://lsa.umich.edu/eeb). Previously, I was a PhD student at the [Ecosystem Modelling Group](https://www.uni-goettingen.de/en/102170.html) based at the [University of Goettingen](https://www.uni-goettingen.de/de/fakultät+für+forstwissenschaften+und+waldökologie/19852.html).
 
 ___
 
