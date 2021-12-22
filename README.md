@@ -21,7 +21,7 @@ ___
 ![Academci](https://img.shields.io/badge/-academic-000000?style=flat&logo=Plex&logoColor=white)
 [![ORCID](https://img.shields.io/badge/-orcID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1125-9918)
 [![RG](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Maximilian_Hesselbarth)
-[![Scholar](https://img.shields.io/badge/-GoogleScholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=PNMHIXAAAAAJ&hl=en&authuser=1)
+[![Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=PNMHIXAAAAAJ&hl=en&authuser=1)
 
 </p>
 
