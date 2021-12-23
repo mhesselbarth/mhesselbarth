@@ -4,7 +4,7 @@ Hi, I'm Max (Pronouns: _he/him/his_). I'm a computational ecologist at the [Coas
 
 ___
 
-<p align="center">
+<center>
 
 ![Tools](https://img.shields.io/badge/-tools-000000?style=flat&logo=Plex&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
@@ -23,7 +23,7 @@ ___
 [![RG](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Maximilian_Hesselbarth)
 [![Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=PNMHIXAAAAAJ&hl=en&authuser=1)
 
-</p>
+</center>
 
 ___
 
