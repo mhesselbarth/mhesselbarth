@@ -39,7 +39,6 @@ ___
 
 [![Gmail](https://img.shields.io/badge/-mhk.hesselbarth<at>gmail.com-FAFAFA?style=social&logo=Gmail&logoColor=black)](mailto:mhk.hesselbarth@gmail.com)
 [![Homepage](https://img.shields.io/badge/Personal%20homepage-FAFAFA?style=social&logo=InternetExplorer&logoColor=black)](https://mhesselbarth.rbind.io)
-[![GitHub](https://img.shields.io/github/followers/mhesselbarth?style=social)](https://www.github.com/mhesselbarth)
 [![Twitter](https://img.shields.io/twitter/follow/mhkhesselbarth?style=social)](https://www.twitter.com/mhkhesselbarth)
 
 </p>
