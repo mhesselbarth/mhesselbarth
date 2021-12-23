@@ -4,8 +4,6 @@ Hi, I'm Max (Pronouns: _he/him/his_). I'm a computational ecologist at the [Coas
 
 ___
 
-<center>
-
 ![Tools](https://img.shields.io/badge/-tools-000000?style=flat&logo=Plex&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![Atom](https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
@@ -23,22 +21,12 @@ ___
 [![RG](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Maximilian_Hesselbarth)
 [![Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=PNMHIXAAAAAJ&hl=en&authuser=1)
 
-</center>
-
 ___
-
-<p align="center">
 
 ![mhesselbarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhesselbarth&show_icons=true&theme=bear)
 
-</p>
-
 ___
-
-<p align="center">
 
 [![Gmail](https://img.shields.io/badge/-mhk.hesselbarth<at>gmail.com-FAFAFA?style=social&logo=Gmail&logoColor=black)](mailto:mhk.hesselbarth@gmail.com)
 [![Homepage](https://img.shields.io/badge/Personal%20homepage-FAFAFA?style=social&logo=InternetExplorer&logoColor=black)](https://mhesselbarth.rbind.io)
 [![Twitter](https://img.shields.io/twitter/follow/mhkhesselbarth?style=social)](https://www.twitter.com/mhkhesselbarth)
-
-</p>
