@@ -5,37 +5,38 @@ Hi, I'm Max (Pronouns: _he/him/his_). I'm a computational ecologist at the [Coas
 ___
 
 <p align="center">
-![Tools](https://img.shields.io/badge/-tools-000000?style=flat&logo=Plex&logoColor=white)
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![Atom](https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-</p>
-
-
-<p align="center">
-![Code](https://img.shields.io/badge/-code-000000?style=flat&logo=Plex&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white)
-![Cpp](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Netlogo](https://img.shields.io/badge/-NetLogo-C10100?style=for-the-badge)
-![LaTex](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white)
+  <img alt="Tools" src="https://img.shields.io/badge/-tools-000000?style=flat&logo=Plex&logoColor=white">
+  <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+  <img alt="Atom" src="https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </p>
 
 <p align="center">
-![Academci](https://img.shields.io/badge/-academic-000000?style=flat&logo=Plex&logoColor=white)
-[![ORCID](https://img.shields.io/badge/-orcID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1125-9918)
-[![RG](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Maximilian_Hesselbarth)
-[![Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=PNMHIXAAAAAJ&hl=en&authuser=1)
+  <img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat&logo=Plex&logoColor=white">
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+  <img alt="Cpp" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  <img alt="Netlogo" src="https://img.shields.io/badge/-NetLogo-C10100?style=for-the-badge">
+  <img alt="LaTex" src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white">
 </p>
+
+<p align="center">
+  <img alt="Academic" src="https://img.shields.io/badge/-academic-000000?style=flat&logo=Plex&logoColor=white">
+  <a href="https://orcid.org/0000-0003-1125-9918"><img alt="ORCID" src="https://img.shields.io/badge/-orcID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <a href="https://www.researchgate.net/profile/Maximilian_Hesselbarth"><img alt="RG" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?view_op=search_authors&mauthors=Maximilian+Hesselbarth"><img alt="Scholar" src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white"></a>
+</p>
+
 ___
 
 <p align="center">
-![mhesselbarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhesselbarth&show_icons=true&theme=bear)
+  <img alt = "mhesselbarth's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mhesselbarth&show_icons=true&theme=bear">
 </p>
+
 ___
 
 <p align="center">
-[![Gmail](https://img.shields.io/badge/-mhk.hesselbarth<at>gmail.com-FAFAFA?style=social&logo=Gmail&logoColor=black)](mailto:mhk.hesselbarth@gmail.com)
-[![Homepage](https://img.shields.io/badge/Personal%20homepage-FAFAFA?style=social&logo=InternetExplorer&logoColor=black)](https://mhesselbarth.rbind.io)
-[![Twitter](https://img.shields.io/twitter/follow/mhkhesselbarth?style=social)](https://www.twitter.com/mhkhesselbarth)
+  <a href="mailto:mhk.hesselbarth@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-mhk.hesselbarth<at>gmail.com-FAFAFA?style=social&logo=Gmail&logoColor=black"></a>
+  <a href="https://mhesselbarth.rbind.io"><img alt="Homepage" src="https://img.shields.io/badge/Personal%20homepage-FAFAFA?style=social&logo=InternetExplorer&logoColor=black"></a>
+  <a href="https://www.twitter.com/mhkhesselbarth"><img alt="Twitter" src="https://img.shields.io/twitter/follow/mhkhesselbarth?style=social"></a>
 </p>
