@@ -5,19 +5,19 @@ Hi, I'm Max (Pronouns: _he/him/his_). I'm a computational ecologist at the [Coas
 ___
 
 <p align="center">
-  <img alt="Tools" src="https://img.shields.io/badge/-tools-000000?style=flat&logo=Plex&logoColor=white">
-  <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
-  <img alt="Atom" src="https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-</p>
-
-<p align="center">
   <img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat&logo=Plex&logoColor=white">
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white">
   <img alt="Cpp" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <img alt="Netlogo" src="https://img.shields.io/badge/-NetLogo-C10100?style=for-the-badge">
   <img alt="LaTex" src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white">
+</p>
+
+<p align="center">
+  <img alt="Tools" src="https://img.shields.io/badge/-tools-000000?style=flat&logo=Plex&logoColor=white">
+  <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+  <img alt="Atom" src="https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </p>
 
 <p align="center">
