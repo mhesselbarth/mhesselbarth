@@ -31,12 +31,6 @@ ___
 ___
 
 <p align="center">
-  <img alt = "mhesselbarth's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mhesselbarth&show_icons=true&theme=bear">
-</p>
-
-___
-
-<p align="center">
   <a href="mailto:mhk.hesselbarth@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-mhk.hesselbarth<at>gmail.com-FAFAFA?style=social&logo=Gmail&logoColor=black"></a>
   <a href="https://www.twitter.com/mhkhesselbarth"><img alt="Twitter" src="https://img.shields.io/twitter/follow/mhkhesselbarth?style=social"></a>
 </p>
