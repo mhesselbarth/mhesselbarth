@@ -15,7 +15,6 @@ ___
 <p align="center">
   <a href="https://simpleicons.org"><img alt="Tools" src="https://img.shields.io/badge/-tools-000000?style=flat&logo=Plex&logoColor=white"></a>
   <a href="https://www.rstudio.com"><img alt="RStudio" src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"></a>
-  <a href="https://atom.io"><img alt="Atom" src="https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"></a>
   <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white"></a>
   <a href="https://github.com"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 </p>
