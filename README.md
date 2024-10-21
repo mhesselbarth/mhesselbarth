@@ -1,6 +1,8 @@
 ### Welcome 👋
 
-Hi, I'm Max (Pronouns: _he/him_). I'm a computational ecologist and research scholar in the [Biodiversity, Ecology, and Conservation Group](https://iiasa.ac.at/programs/bnr/bec) based at the [International Institute for Applied Systems Analysis](https://iiasa.ac.at/). Previously, I was a postdoctoral fellow in the [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com) based at the [University of Michigan](https://lsa.umich.edu/eeb), and a PhD student in the [Ecosystem Modelling Group](https://www.uni-goettingen.de/en/102170.html) based at the [University of Goettingen](https://www.uni-goettingen.de/de/fakultät+für+forstwissenschaften+und+waldökologie/19852.html).
+Hi, I'm Max (Pronouns: _he/him_). I'm a computational ecologist and research scholar in the [Biodiversity, Ecology, and Conservation Group](https://iiasa.ac.at/programs/bnr/bec) based at the [International Institute for Applied Systems Analysis](https://iiasa.ac.at/). Prior to my current position, I was a postdoctoral fellow in the [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com) at the [University of Michigan](https://lsa.umich.edu/eeb), and a PhD student in the [Ecosystem Modelling Group](https://www.uni-goettingen.de/en/102170.html) at the [University of Goettingen](https://www.uni-goettingen.de/de/fakultät+für+forstwissenschaften+und+waldökologie/19852.html).
+
+To find more information about myself, please see my [personal homepage](https://www.maxhesselbarth.com/).
 
 ___
 
