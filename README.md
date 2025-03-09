@@ -34,5 +34,4 @@ ___
 
 <p align="center">
   <a href="mailto:mhk.hesselbarth@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-mhk.hesselbarth<at>gmail.com-FAFAFA?style=social&logo=Gmail&logoColor=black"></a>
-  <a href="https://www.twitter.com/mhkhesselbarth"><img alt="Twitter" src="https://img.shields.io/twitter/follow/mhkhesselbarth?style=social"></a>
 </p>
