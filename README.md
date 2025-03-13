@@ -2,9 +2,9 @@
 
 <!-- Hi, I'm Max (Pronouns: _he/him_). I'm a computational ecologist and research scholar in the [Biodiversity, Ecology, and Conservation Group](https://iiasa.ac.at/programs/bnr/bec) based at the [International Institute for Applied Systems Analysis](https://iiasa.ac.at/). Prior to my current position, I was a postdoctoral fellow in the [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com) at the [University of Michigan](https://lsa.umich.edu/eeb), and a PhD student in the [Ecosystem Modelling Group](https://www.uni-goettingen.de/en/102170.html) at the [University of Goettingen](https://www.uni-goettingen.de/de/fakultät+für+forstwissenschaften+und+waldökologie/19852.html). -->
 
-Hi, my name is Max (Pronouns: _he/him_), and I am a computational ecologist by training and a data scientist at the [Energy and Environment](https://www.statistik.at/en/statistics/energy-and-environment) section of _Statistics Austria_.
+Hi, my name is Max (Pronouns: _he/him_). I am trained as a computational ecologist and currently work as a data scientist in the [Energy and Environment](https://www.statistik.at/en/statistics/energy-and-environment) section at Statistics Austria.
 
-For more information about me, please visit my [homepage](https://www.maxhesselbarth.com/).
+For more information about me, please visit my [Homepage](https://www.maxhesselbarth.com/).
 
 ___
 
